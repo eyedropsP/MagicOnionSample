@@ -1,0 +1,16 @@
+{
+    "name": "ServerShared",
+    "references": [
+        "GUID:bbde805d927e795439d7a746d1749cab",
+        "GUID:62b9d94cd08d5d047b266d42e8684cb8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
