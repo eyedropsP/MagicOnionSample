@@ -1,4 +1,4 @@
-This is MagicOnionSample for Unity.
+This is MagicOnionSample for Unity.<br>
 This contains "ServerProject", "SharedProject" and "UnityClientProject".
 
 I create this project with reference to MagicOnion README.<br>
